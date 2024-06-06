@@ -1,4 +1,18 @@
 
+
+## 설치하기
+
+
+
+## 사용법
+
+`/bookstack_app_data/www`
+
+경로를 수정하면 됩니다.
+
+문서 : https://www.bookstackapp.com/docs/
+
+
 ## 비밀번호 설정
 
 
